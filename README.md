@@ -1,2 +1,2 @@
 # prueba
-#Esto es una prueba >:C
+#Esto es una prueba :v
